@@ -22,7 +22,7 @@ const Scheduling = () => {
                       <div id='layout' class="layout--collage">
                                  
                       <Reveal effect="fadeInLeft">
-                      <InlineWidget url="https://calendly.com/wchswarhawks" styles={{  height: '650px'}}/>
+                      <InlineWidget url="https://calendly.com/wchswarhawks/match" styles={{  height: '650px'}}/>
                       </Reveal>
     
                          
