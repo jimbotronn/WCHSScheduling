@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/www.wcvolleyball.com/static/css/main.db6d9369.chunk.css",
-    "main.js": "/www.wcvolleyball.com/static/js/main.19a1329c.chunk.js",
-    "main.js.map": "/www.wcvolleyball.com/static/js/main.19a1329c.chunk.js.map",
+    "main.js": "/www.wcvolleyball.com/static/js/main.2e96da89.chunk.js",
+    "main.js.map": "/www.wcvolleyball.com/static/js/main.2e96da89.chunk.js.map",
     "runtime-main.js": "/www.wcvolleyball.com/static/js/runtime-main.4c99f522.js",
     "runtime-main.js.map": "/www.wcvolleyball.com/static/js/runtime-main.4c99f522.js.map",
     "static/css/2.9048f0fe.chunk.css": "/www.wcvolleyball.com/static/css/2.9048f0fe.chunk.css",
-    "static/js/2.79954d40.chunk.js": "/www.wcvolleyball.com/static/js/2.79954d40.chunk.js",
-    "static/js/2.79954d40.chunk.js.map": "/www.wcvolleyball.com/static/js/2.79954d40.chunk.js.map",
+    "static/js/2.8fbe974d.chunk.js": "/www.wcvolleyball.com/static/js/2.8fbe974d.chunk.js",
+    "static/js/2.8fbe974d.chunk.js.map": "/www.wcvolleyball.com/static/js/2.8fbe974d.chunk.js.map",
     "static/js/3.f80a2557.chunk.js": "/www.wcvolleyball.com/static/js/3.f80a2557.chunk.js",
     "static/js/3.f80a2557.chunk.js.map": "/www.wcvolleyball.com/static/js/3.f80a2557.chunk.js.map",
     "index.html": "/www.wcvolleyball.com/index.html",
     "static/css/2.9048f0fe.chunk.css.map": "/www.wcvolleyball.com/static/css/2.9048f0fe.chunk.css.map",
     "static/css/main.db6d9369.chunk.css.map": "/www.wcvolleyball.com/static/css/main.db6d9369.chunk.css.map",
-    "static/js/2.79954d40.chunk.js.LICENSE.txt": "/www.wcvolleyball.com/static/js/2.79954d40.chunk.js.LICENSE.txt",
+    "static/js/2.8fbe974d.chunk.js.LICENSE.txt": "/www.wcvolleyball.com/static/js/2.8fbe974d.chunk.js.LICENSE.txt",
     "static/media/slick-theme.css": "/www.wcvolleyball.com/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.4c99f522.js",
     "static/css/2.9048f0fe.chunk.css",
-    "static/js/2.79954d40.chunk.js",
+    "static/js/2.8fbe974d.chunk.js",
     "static/css/main.db6d9369.chunk.css",
-    "static/js/main.19a1329c.chunk.js"
+    "static/js/main.2e96da89.chunk.js"
   ]
 }
